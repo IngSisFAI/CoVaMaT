@@ -1,6 +1,11 @@
 # CoVaMaT : Context Variety Management Tool
 
-Esta herramienta fue desarrollada como parte del trabajo de Tesis de Licenciatura de la carrera Licenciatura en Sistemas de Información de la Universidad Nacional del Comahue, titulado Modelado Bottom-up de Variedad de Dominio en Sistemas Big Data, realizado por Líam Osycka bajo la dirección de Alejandra Cechich.
+CoVaMaT is a tool developed to assist in the variety identification process (top-down and/or bottom-up) showed in the next figure.
+
+![image](https://github.com/user-attachments/assets/31f05815-146f-44f1-af52-ad13ef829611)
+
+
+
 
 ## Documentación
 
